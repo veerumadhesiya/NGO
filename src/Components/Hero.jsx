@@ -21,7 +21,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5 }}
       >
-        Join our mission to provide education, healthcare, and opportunities for all.
+        Join our mission to provide educations, healthcare, and opportunities for all.
       </motion.p>
     </section>
   );
