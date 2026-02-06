@@ -20,7 +20,7 @@ export default function About() {
         >
           <h3 className="text-2xl sm:text-3xl font-semibold mb-4 text-blue-600">About Us</h3>
           <p className="text-gray-700 leading-relaxed px-2 sm:px-0">
-            Our NGO focuses on uplifting underserved communities through impactful project in education, healthcare, and women empowerment. We believe in sustainable change, and every step starts with you.
+            Our NGO focuses on uplifting underserved communities through impactful project in education, healthcare, and women empowerment. We believe in sustainable change, and every step start with you.
           </p>
         </motion.div>
       </div>
