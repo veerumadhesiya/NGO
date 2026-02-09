@@ -34,7 +34,7 @@ export default function Navbar() {
         }`}>
           <li className="py-2 px-4 md:p-0"><a href="#home" className="hover:text-blue-500 block">Home</a></li>
           <li className="py-2 px-4 md:p-0"><a href="#about" className="hover:text-blue-500 block">About</a></li>
-          <li className="py-2 px-4 md:p-0"><a href="#volunteer" className="hover:text-blue-500 block">Volunter</a></li>
+          <li className="py-2 px-4 md:p-0"><a href="#volunteer" className="hover:text-blue-500 block">Volunteer</a></li>
         </ul>
       </div>
     </nav>
