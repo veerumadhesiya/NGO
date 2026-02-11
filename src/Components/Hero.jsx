@@ -13,7 +13,7 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        Empowering Communities for a Better Future
+        Empowering Communities for  Better Future
       </motion.h2>
       <motion.p
         className="mt-4 text-gray-900 max-w-xl mx-auto text-base sm:text-lg px-2"
